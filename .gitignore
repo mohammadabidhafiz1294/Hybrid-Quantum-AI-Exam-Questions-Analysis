@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+hybrid-venv/
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Quantum Computing Specific
+*.qasm
+*.qobj
+qiskit_cache/
+pennylane_cache/
+quantum_circuits/
+*.qc
+
+# Machine Learning & AI
+models/
+checkpoints/
+*.h5
+*.pkl
+*.joblib
+*.model
+*.weights
+tensorboard_logs/
+mlruns/
+wandb/
+
+# Image Analytics Data
+data/
+datasets/
+images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+processed_images/
+augmented_data/
+
+# Large Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuration
+config.json
+secrets.json
+credentials.json
+
+# Results and Outputs
+results/
+outputs/
+experiments/
+plots/
+figures/
