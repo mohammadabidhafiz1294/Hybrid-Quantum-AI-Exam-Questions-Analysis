@@ -114,3 +114,10 @@ outputs/
 experiments/
 plots/
 figures/
+
+memory/
+scripts/
+templates/
+.github/prompts/
+.github/
+specs/
